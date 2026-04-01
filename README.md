@@ -4,6 +4,8 @@ A design system skill for [Claude Code](https://claude.ai/code) inspired by Noth
 
 I kept describing the same design rules to Claude over and over — Swiss typography, OLED blacks, segmented progress bars, dot-matrix motifs. So I packaged it into a reusable skill.
 
+![Preview](preview.jpg)
+
 ## What you get
 
 Tell Claude `/nothing-design` or say "Nothing style" and it generates UI following these principles:
